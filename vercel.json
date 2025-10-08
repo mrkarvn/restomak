@@ -1,5 +1,3 @@
-{ 
-    "rewrites": [ 
-        { "source": "/figma1/(.*)", "destination": "/html/$1" } 
-    ]
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
